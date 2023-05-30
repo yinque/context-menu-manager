@@ -5,6 +5,8 @@
 # 开发计划
 - [ ] 启用、禁用管理
 - [ ] 筛选单个应用注册的菜单项
+## 添加自定义功能
+- [ ] 图片的快速压缩功能。右键图片文件，弹出压缩图片选项，展开选择压缩率，开始压缩图片
 # 信息收集
 https://learn.microsoft.com/en-us/windows/win32/shell/context-menu-handlers
 ## 菜单空间注册表映射
